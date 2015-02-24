@@ -1,3 +1,4 @@
+Add some changes
 Apache Hive (TM) @VERSION@
 ======================
 
